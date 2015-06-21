@@ -9,7 +9,7 @@ This is a Capture the Flag minigame for MCPE. Anyone may use it for their server
 
 
 
-
+This minigame is still in development
 
 
 
